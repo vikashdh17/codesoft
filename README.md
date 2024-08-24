@@ -1,2 +1,2 @@
-# codesoft
-making project of codesoft intership
+# codsoft
+making project of codsoft intership
